@@ -8,9 +8,9 @@ A quick reference guide with examples for various splunk tasks and functions
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dec-Ta/Splunk-Bible#general-search-engines" target="_blank">General</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#servers" target="_blank">Servers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
+  <a href="https://github.com/Dec-Ta/Splunk-Bible#Basic-SPL" target="_blank">Basic SPL</a> •
+  <a href="https://github.com/Dec-Ta/Splunk-Bible#Time" target="_blank">Time</a> •
+  <a href="https://github.com/Dec-Ta/Splunk-Bible#Stats" target="_blank">Stats</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code-search-engines" target="_blank">Code</a> •
@@ -29,7 +29,7 @@ A quick reference guide with examples for various splunk tasks and functions
   <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a>
 </p>
 
-### General Search Engines
+### Basic SPL
 
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
@@ -39,7 +39,7 @@ A quick reference guide with examples for various splunk tasks and functions
 - [Baidu](https://www.baidu.com/)
 - [You](https://you.com/)
 
-### Servers
+### Time
 
 - [Shodan](https://shodan.io) - Search Engine for the Internet of Everything
 - [Censys Search](https://search.censys.io/) - Search Engine for every server on the Internet to reduce exposure and improve security.
@@ -50,7 +50,7 @@ A quick reference guide with examples for various splunk tasks and functions
 - [Netlas.io](https://netlas.io/) - Discover, Research and Monitor any Assets Available Online
 - [FOFA](https://fofa.info/) - Cyberspace mapping
 
-### Vulnerabilities
+### Stats
 
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - National Vulnerability Database
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
@@ -72,7 +72,7 @@ A quick reference guide with examples for various splunk tasks and functions
 - [Trend Micro Zero Day Initiative](https://www.zerodayinitiative.com/advisories/published/) - Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers
 - [Google Project Zero](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary) - Vulnerabilities including Zero Days
 
-### Exploits
+### Comparing Values
 
 - [Exploit-DB](https://www.exploit-db.com/) - Exploit Database
 - [Sploitus](https://sploitus.com/) - Convenient central place for identifying the newest exploits
