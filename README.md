@@ -89,5 +89,12 @@ A quick reference guide with examples for various splunk tasks and functions
     <td></td>
     <td></td>
   </tr>
-
+  <tr>
+    <td></td>
+    <td></td>
+    <td>.*?</td>
+    <td>Wildcard</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
