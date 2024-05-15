@@ -32,6 +32,8 @@ A quick reference guide with examples for various splunk tasks and functions
 - foo
 
 ### Regex
+<a href="[https://regex101.com/" target="_blank">Regex101.com - Real Time Regex Testing</a>
+
 <table>
   <tr>
     <td>Control Characters</td>
